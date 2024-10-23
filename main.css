@@ -69,7 +69,7 @@ body {
     background-color: #f7f7f7;
 }
 .tasks .task.done {
-    opacity: 0.5;
+    opacity: 0.25;
 }
 .tasks .task span {
     font-weight: bold;
